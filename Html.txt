@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>El sitio web de Gabriela Velez Paz</title>
+<h1> Despues de 5 minutos de la clase llama a lista </h1>
+<h2> Pierde la materia con el 20% de inasistencias </h2>
+<h3> se debe seguir los contenidos de clase </h3>
+<h4> Existen 3 cortes </h4>
+<h5> primer corte y segundo corte pesa el 30% </h5>
+<h6> tercer corte pesa el 40% </h6>
+<h1> Esta es una pagina de accesorios que tomo como modelo a seguir <a href="https://www.plateriaramirez.com/store/"target="blanck"> PlateriaRamirez </a> <h1>
+</head>
+
+<body>
+
+</body>
+
+
+<footer>
+
+</footer>
+
+</html>
